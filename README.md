@@ -8,7 +8,7 @@ Este es el Trabajo Práctico 1 de la materia. La idea es armar un sistema simple
 
 ## Cómo abrirlo y probarlo
 
-1. Clonar el repo:
+1. 
    En el cmd escribir lo siguiente:
 
 "git clone https://github.com/ema2006romero-ctrl/PP_TP1_53482.git"
