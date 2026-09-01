@@ -13,6 +13,9 @@ Este es el Trabajo Práctico 1 de la materia. La idea es armar un sistema simple
 
 git clone https://github.com/ema2006romero-ctrl/PP_TP1_53482.git
 
-2. 2. Abrirlo con IntelliJ (File → Open, y elegir la carpeta que se descargó).
-3. Correr la clase `App.java` que está dentro de la carpeta `ejercicio3tp1`
-4. Con lo que nos devuelve es con lo que se realizó el ejercicio 4
+2. Abrirlo con IntelliJ (File → Open, y elegir la carpeta que se descargó).
+3. Navegar hasta la carpeta raíz del proyecto y elegir la carpeta "Main"
+3. Elegir 'Trust Project' cuando lo solicite
+4. Esperar a que IntelliJ indexe y descargue las dependencias 
+5. Buscar la clase principal (Main), hacer click en el triángulo verde al lado o usar el botón Run arriba a la derecha
+6. Con lo que nos devuelve es con lo que se realizó el ejercicio 4
